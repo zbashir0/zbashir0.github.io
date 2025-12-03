@@ -5,6 +5,7 @@ I am a computer science major at CSUF an I plan on graduating in 2029
 ## Favorite CPSC 120L Labs
 
 * Lab 7 
+
     This was one of my favorite labs because it taught me how important defensive programming is in real-world software. I liked that we worked with command line input and had to validate everything before the program could run properly. It also helped me practice writing compound Boolean expressions, which made my code more precise and logical. One major thing I learned was how to catch errors early and print useful messages instead of letting a program crash. I also learned how to use make to build a program instead of manually compiling with clang++, which made me feel more like a real developer. Overall, Lab 7 made me more confident using git, working with a partner, and pushing code frequently while following a professional workflow.
 
 * Lab 9 
