@@ -1,6 +1,6 @@
 
 # Zunaira Bashir's Portfolio
-I am a computer science major at CSUF an I plan on graduating in 2029
+I am a computer science major at CSUF and I plan on graduating in 2029
 
 ## Favorite CPSC 120L Labs
 
